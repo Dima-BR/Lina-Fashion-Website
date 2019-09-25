@@ -1,0 +1,33 @@
+#logoImg{
+	width:107px;
+	height:48px;
+}
+
+#primary-menu ul li a{
+	font-size: 17px;
+}
+
+#primary-menu ul li a:hover{
+	color:#01A6A9;
+
+}
+.active {
+  background-color: #01A6A9;
+}
+  .active ul li a :hover {
+  /*background-color: #01A6A9;*/
+  color: #fff;
+}
+.justify{
+	text-align: justify;
+}
+
+/*.preorderText{
+	font-size: 9px;
+	font-weight: 100;
+}*/
+
+/*.sliderImg{
+	width: 1920px;
+	height: 700px;
+}*/
